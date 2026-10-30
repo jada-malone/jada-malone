@@ -10,9 +10,14 @@ I turn messy operational data into clear answers: root-cause analysis in SQL, KP
 
 | Project | What it is | Tools |
 |---|---|---|
-| **[Predictive Modeling & EDA](https://github.com/jada-malone/predictive-modeling-eda)** | Classification and regression models (decision trees, SVMs) on 1,000+ record datasets, with findings shown in clear visualizations | Python, scikit-learn, Matplotlib |
-| **[BI Dashboard Development](https://github.com/jada-malone/power-bi-executive-dashboards)** | Interactive executive dashboards with KPI cards, dynamic filters and trend analyses that made recurring reporting self-service | Power BI, Tableau, SQL, Python, Excel |
-| **[Simulation & Optimization](https://github.com/jada-malone/monte-carlo-simulation-optimization)** | Monte Carlo simulation and optimization models to quantify uncertainty, compare scenarios and support decisions | Python |
+| **[Cyber Threat Intelligence with ML](https://github.com/jada-malone/cyber-threat-intelligence-ml)** | Group project: MITRE ATT&CK + PhishTank threat analysis; I implemented the models: Random Forest CVSS severity regression (R² 0.981) and CICIDS 2017 intrusion detection (F1 0.998) | Python, scikit-learn, pandas |
+| **[Simulation & Optimization](https://github.com/jada-malone/monte-carlo-simulation-optimization)** | Monte Carlo risk models (drug NPV, newsvendor), input analysis, bootstrapping, linear programming and SimPy discrete-event queue simulation | Python, R, SimPy, PuLP |
+| **[NYPD Offense Trends](https://github.com/jada-malone/nypd-crime-time-series)** | Monthly time-series analysis of the top 5 NYC offense types in 2024; most peak in late spring or summer | Python, pandas, Matplotlib |
+| **[Statistics & Multivariate Analysis in R](https://github.com/jada-malone/statistics-multivariate-analysis-r)** | Confidence intervals, hypothesis tests, PCA, MDS, factor analysis, clustering and association rules on real datasets | R, R Markdown, mclust, arules |
+| **[AI Investment Analyst Agent](https://github.com/jada-malone/genai-investment-analyst-agent)** | Generative AI lab: a Dify agent that writes a one-page analyst report from fundamentals, a 12-month trend and news sentiment | Dify, LLMs, prompt engineering |
+| **[Python for Data Analysis](https://github.com/jada-malone/python-data-programming)** | pandas group-bys and summaries, Titanic and tips EDA, Matplotlib charts, OOP programs | Python, pandas, Matplotlib |
+| **[Predictive Modeling & EDA](https://github.com/jada-malone/predictive-modeling-eda)** | Classification and regression models (decision trees, SVMs) on 1,000+ record datasets (project overview; files coming soon) | Python, scikit-learn, Matplotlib |
+| **[BI Dashboard Development](https://github.com/jada-malone/power-bi-executive-dashboards)** | Interactive executive KPI dashboards with dynamic filters and trend analyses (project overview; files coming soon) | Power BI, Tableau, SQL, Python, Excel |
 
 ## Experience
 
