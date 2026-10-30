@@ -6,6 +6,14 @@ Spring, TX (Houston area) · [LinkedIn](https://www.linkedin.com/in/jada-malone-
 
 I turn messy operational data into clear answers: root-cause analysis in SQL, KPI dashboards in Power BI/Tableau, predictive models in Python, and the documentation that keeps a process working after launch. Former Division I student-athlete.
 
+## Projects
+
+| Project | What it is | Tools |
+|---|---|---|
+| **[Predictive Modeling & EDA](https://github.com/jada-malone/predictive-modeling-eda)** | Classification and regression models (decision trees, SVMs) on 1,000+ record datasets, with findings shown in clear visualizations | Python, scikit-learn, Matplotlib |
+| **[BI Dashboard Development](https://github.com/jada-malone/power-bi-executive-dashboards)** | Interactive executive dashboards with KPI cards, dynamic filters and trend analyses that made recurring reporting self-service | Power BI, Tableau, SQL, Python, Excel |
+| **[Simulation & Optimization](https://github.com/jada-malone/monte-carlo-simulation-optimization)** | Monte Carlo simulation and optimization models to quantify uncertainty, compare scenarios and support decisions | Python |
+
 ## Experience
 
 **Operations Technical Analyst (Contract) — DoorDash, via TEKsystems** · May 2026 – present
@@ -19,7 +27,9 @@ I turn messy operational data into clear answers: root-cause analysis in SQL, KP
 - Maintained and audited 20+ systems supporting secure athlete data pipelines; recurring issues down ~40% through proactive monitoring and documentation across 5+ integrated platforms.
 
 **President — Women's Equip Empower Encourage (WE3), Texas A&M** · Jun 2021 – May 2025
-SEC and NCAA Student-Athlete Engagement Councils.
+- Planned and ran 10+ leadership development, networking and community events a year.
+
+**Former NCAA Division I student-athlete, Texas A&M** · member, SEC and NCAA Student-Athlete Engagement Councils
 
 ## Education
 
@@ -33,13 +43,5 @@ SEC and NCAA Student-Athlete Engagement Councils.
 - **BI & platforms:** Power BI (DAX, Power Query), Tableau, Looker, Mode, Snowflake, Databricks, Azure, AWS, Git/GitHub, Jupyter
 - **AI:** Generative AI, prompt engineering, Microsoft Copilot, ChatGPT, machine learning / predictive modeling
 - **Methods:** EDA, dashboard development, KPI reporting, data quality, root-cause analysis, process improvement, Monte Carlo simulation, requirements gathering, UAT, Agile (Jira, Confluence), Lean
-
-## Projects
-
-| Repo | What it is |
-|---|---|
-| [predictive-modeling-eda](../predictive-modeling-eda) | Classification & regression models (decision trees, SVMs) with EDA and Matplotlib visuals |
-| [power-bi-executive-dashboards](../power-bi-executive-dashboards) | Interactive Power BI dashboards for executive KPI reporting |
-| [monte-carlo-simulation-optimization](../monte-carlo-simulation-optimization) | Monte Carlo simulation and optimization models for decision analysis |
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jada-malone-509170280).
